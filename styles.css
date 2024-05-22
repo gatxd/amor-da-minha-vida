@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('file:///C:/Users/Contabilidade03/Desktop/Site/background.webp');
+    background-image: url('background.webp');
     background-size: cover; /* Redimensiona a imagem para caber inteira na área do body */
     background-repeat: no-repeat; /* Evita a repetição da imagem de fundo */
     background-position: center center; /* Centraliza a imagem de fundo */

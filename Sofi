@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amor da Minha Vida</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Amor da Minha Vida</h1>
+        <nav>
+            <ul>
+                <li><a href="#sobre">Sobre Nós</a></li>
+                <li><a href="#fotos">Fotos</a></li>
+                <li><a href="#videos">Vídeos</a></li>
+                <li><a href="#mensagem">Mensagem de Amor</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="sobre">
+        <h2>Nossa História</h2>
+        <p>Aqui você pode escrever um pouco sobre como vocês se conheceram, momentos especiais que compartilharam juntos, etc.</p>
+    </section>
+
+    <section id="fotos">
+        <h2>Fotos</h2>
+        <div class="gallery">
+            <!-- Adicione suas fotos aqui -->
+        </div>
+    </section>
+
+    <section id="videos">
+        <h2>Vídeos</h2>
+        <div class="videos">
+            <!-- Adicione seus vídeos aqui -->
+        </div>
+    </section>
+
+    <section id="mensagem">
+        <h2>Mensagem de Amor</h2>
+        <p>Escreva aqui uma mensagem sincera e amorosa para sua namorada.</p>
+    </section>
+
+    <footer>
+        <p>Feito com ❤️ por Seu Nome</p>
+    </footer>
+</body>
+</html>
